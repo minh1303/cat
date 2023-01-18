@@ -1,0 +1,28 @@
+; 
+;    █████████           ████                            
+;   ███░░░░░███         ░░███                            
+;  ███     ░░░   ██████  ░███   ██████  ████████   █████ 
+; ░███          ███░░███ ░███  ███░░███░░███░░███ ███░░  
+; ░███         ░███ ░███ ░███ ░███ ░███ ░███ ░░░ ░░█████ 
+; ░░███     ███░███ ░███ ░███ ░███ ░███ ░███      ░░░░███
+;  ░░█████████ ░░██████  █████░░██████  █████     ██████ 
+;   ░░░░░░░░░   ░░░░░░  ░░░░░  ░░░░░░  ░░░░░     ░░░░░░  
+;           By Adrianasolomalala Samuel Ruffin
+
+[colors]
+background = #363a4f			
+background-alt = #181926			
+foreground = #6e738d	
+foreground-alt = #bdae93
+red = #ed8796	
+red-alt = #fb4934
+green = #a6da95	
+green-alt = #a6d189	
+yellow = #eed49f	
+yellow-alt = #e5c890	
+blue = #8aadf4	
+blue-alt = #8caaee	
+purple = #b7bdf8	
+purple-alt = #c6a0f6	
+aqua = #8bd5ca	
+aqua-alt = #8ec07c
